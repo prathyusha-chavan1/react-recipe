@@ -1,4 +1,4 @@
-allimport React from 'react';
+import React from 'react';
 import Search from './components/Search';
 import Recipes from './components/Recipes';
 
